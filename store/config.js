@@ -1,0 +1,1 @@
+export const statiscticsApi = 'http://localhost:5000'

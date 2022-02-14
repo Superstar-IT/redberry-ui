@@ -1,0 +1,34 @@
+{
+    "login_failed": {
+        "en": "Failed to login",
+        "ka": "შესვლა ვერ მოხერხდა"
+    },
+    "register_failed": {
+        "en": "Failed to register",
+        "ka": "რეგისტრაცია ვერ მოხერხდა"
+    },
+    "enter_username": {
+        "en": "Enter Username",
+        "ka": "შეიყვანეთ მომხმარებლის სახელი"
+    },
+    "enter_password": {
+        "en": "Enter Password",
+        "ka": "შეიყვანეთ პაროლი"
+    },
+    "require_username": {
+        "en": "Username required",
+        "ka": "მომხმარებლის სახელია საჭირო"
+    },
+    "require_password": {
+        "en": "Password required",
+        "ka": "საჭიროა პაროლი"
+    },
+    "invalid_length_username": {
+        "en": "UserName should have 4 length at least",
+        "ka": "მომხმარებლის სახელს უნდა ჰქონდეს მინიმუმ 4 სიგრძე"
+    },
+    "invalid_length_password": {
+        "en": "Password should have 8 length at least",
+        "ka": "პაროლი უნდა ჰქონდეს მინიმუმ 8 სიგრძე"
+    }
+}

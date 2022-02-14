@@ -1,0 +1,30 @@
+{
+    "confirmed": {
+        "en": "Confirmed",
+        "ka": "დაადასტურა"
+    },
+    "death": {
+        "en": "Death",
+        "ka": "სიკვდილი"
+    },
+    "recovered": {
+        "en": "Recovered",
+        "ka": "ამოღებული"
+    },
+    "statistics_by_country": {
+        "en": "Statistics by country",
+        "ka": "სტატისტიკა ქვეყნების მიხედვით"
+    },
+    "empty_data": {
+        "en": "No Data",
+        "ka": "Მონაცემები არ არის"
+    },
+    "country": {
+        "en": "Country",
+        "ka": "ქვეყანა"
+    },
+    "statistics": {
+        "en": "Statistics",
+        "ka": "სტატისტიკა"
+    }
+}

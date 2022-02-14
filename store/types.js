@@ -1,0 +1,4 @@
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+
+export const SET_STATISTICS = 'SET_STATISTICS';
+export const SET_SUMMRAY = 'SET_SUMMRAY'
